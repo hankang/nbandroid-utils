@@ -1,0 +1,1 @@
+Not much here but a version of InstrumentationTestRunner that out will produce a junitreport like output, for running Android unit tests in Hudson.
